@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt86518/proprietary/etc/sound_trigger_platform_info.xml:system/etc/sound_trigger_platform_info.xml \
     vendor/wingtech/wt86518/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
     vendor/wingtech/wt86518/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/wingtech/wt86518/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/wingtech/wt86518/proprietary/lib/hw/gps.msm8916.so:system/lib/hw/gps.msm8916.so \
     vendor/wingtech/wt86518/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/wingtech/wt86518/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
