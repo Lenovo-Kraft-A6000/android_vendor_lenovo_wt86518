@@ -61,6 +61,10 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt86518/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/wingtech/wt86518/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/wingtech/wt86518/proprietary/lib/hw/gps.msm8916.so:system/lib/hw/gps.msm8916.so \
+    vendor/wingtech/wt86518/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
+    vendor/wingtech/wt86518/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/wingtech/wt86518/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+    vendor/wingtech/wt86518/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/wingtech/wt86518/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/wingtech/wt86518/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/wingtech/wt86518/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
